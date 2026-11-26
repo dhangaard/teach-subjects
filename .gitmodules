@@ -1,0 +1,9 @@
+[submodule "subjects/cyber-security/sources/course-notes"]
+	path = subjects/cyber-security/sources/course-notes
+	url = https://github.com/HartmannDemoCode/security.git
+[submodule "subjects/cyber-security/sources/sheet-herder-api"]
+	path = subjects/cyber-security/sources/sheet-herder-api
+	url = https://github.com/dhangaard/sheet-herder-api.git
+[submodule "subjects/cyber-security/sources/sheet-herder-app"]
+	path = subjects/cyber-security/sources/sheet-herder-app
+	url = https://github.com/dhangaard/sheet-herder-app.git
